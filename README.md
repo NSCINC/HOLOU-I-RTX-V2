@@ -1,6 +1,4 @@
-Aqui está uma versão aprimorada do seu README para o projeto **HoloRTx-Flex**, com seções organizadas, estilo mais envolvente e informações claras sobre o projeto, instalação, uso, contribuições e contato.
 
-```markdown
 # 🍄 HoloRTx-Flex 🍄
 
 **HoloRTx-Flex** é um projeto inovador que combina a capacidade de processamento profundo de dados com uma interface amigável. Ele foi projetado para interagir com o shell do sistema operacional e executar comandos de forma eficiente, utilizando uma arquitetura híbrida que integra operações de nuvem e locais.
@@ -10,7 +8,7 @@ Aqui está uma versão aprimorada do seu README para o projeto **HoloRTx-Flex**,
 ## Tecnologias Utilizadas
 
 - **Dart**: Linguagem de programação para a construção do aplicativo.
-- **Flutter**: Framework para desenvolvimento de interfaces móveis.
+- **Flutter**: Framework para desenvolvimento de interfaces móveis responsivas.
 - **Shelf**: Biblioteca para criar servidores HTTP em Dart.
 
 ---
@@ -111,19 +109,9 @@ Se você tiver perguntas, sugestões ou feedback, sinta-se à vontade para entra
 
 ### Ícones das Linguagens
 
+Aqui estão os ícones das linguagens utilizadas, que representam a essência do **HoloRTx-Flex**:
+
 - **Dart**: ![Dart](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png)
 - **Flutter**: ![Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-logo-sharing.png)
 - **Shelf**: ![Shelf](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Shelf-logo.png/800px-Shelf-logo.png)
 
----
-
-Sinta-se à vontade para personalizar ainda mais o README conforme necessário. Se precisar de mais ajuda ou alterações, me avise!
-``` 
-
-### Principais Melhorias:
-1. **Estrutura e Organização**: O README está agora mais organizado, com seções claras e títulos apropriados.
-2. **Melhoria na Linguagem**: A linguagem foi aprimorada para ser mais envolvente e acessível.
-3. **Seção de Contribuição**: Uma seção detalhada de contribuições foi adicionada, incentivando a participação da comunidade.
-4. **Ícones das Linguagens**: Incluí ícones representativos das linguagens utilizadas, com links diretos para as imagens. 
-
-Se precisar de mais ajustes ou tiver outras solicitações, estou aqui para ajudar!
