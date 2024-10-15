@@ -1,5 +1,5 @@
 
-#🍄 HoloRTx-Flex🍄
+🍄 #HoloRTx-Flex🍄
 
 HoloRTx-Flex é um projeto que combina a capacidade de processamento profundo de dados com uma interface amigável. Ele é projetado para interagir com o shell do sistema operacional e executar comandos de forma eficiente, utilizando uma arquitetura híbrida que integra operações de nuvem e locais.
 
