@@ -110,8 +110,22 @@ Se você tiver perguntas, sugestões ou feedback, sinta-se à vontade para entra
 ### Ícones das Linguagens
 
 Aqui estão os ícones das linguagens utilizadas, que representam a essência do **HoloRTx-Flex**:
+## Tecnologias Utilizadas
 
+### Linguagens
+
+- **Java**: ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)
+- **JavaScript**: ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg)
+- **Go**: ![Go](https://upload.wikimedia.org/wikipedia/commons/4/47/Go_Gopher.png)
 - **Dart**: ![Dart](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png)
+- **Kotlin**: ![Kotlin](https://upload.wikimedia.org/wikipedia/commons/7/7f/Kotlin_logo.svg)
+- **Ruby**: ![Ruby](https://upload.wikimedia.org/wikipedia/commons/1/1c/Ruby_logo.svg)
+- **SQL**: ![SQL](https://upload.wikimedia.org/wikipedia/commons/2/29/SQL.svg)
+
+### Bibliotecas
+
 - **Flutter**: ![Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-logo-sharing.png)
 - **Shelf**: ![Shelf](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Shelf-logo.png/800px-Shelf-logo.png)
+- **Shell**: ![Shell](https://upload.wikimedia.org/wikipedia/commons/9/94/Shell_logo.svg)
+- **NSCABC**: (Adicione o link para o logo, se disponível)
 
