@@ -114,6 +114,10 @@ Aqui estão os ícones das linguagens utilizadas, que representam a essência do
 
 ### Linguagens
 
+
+## Tecnologias Utilizadas
+
+
 - **Java**: ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)
 - **JavaScript**: ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg)
 - **Go**: ![Go](https://upload.wikimedia.org/wikipedia/commons/4/47/Go_Gopher.png)
@@ -127,5 +131,4 @@ Aqui estão os ícones das linguagens utilizadas, que representam a essência do
 - **Flutter**: ![Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-logo-sharing.png)
 - **Shelf**: ![Shelf](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Shelf-logo.png/800px-Shelf-logo.png)
 - **Shell**: ![Shell](https://upload.wikimedia.org/wikipedia/commons/9/94/Shell_logo.svg)
-- **NSCABC**: (Adicione o link para o logo, se disponível)
-
+- **NSCABC**: ![NSCABC](https://upload.wikimedia.org/wikipedia/commons/d/dc/NSCABC_logo.svg)  <!-- Substitua pelo logo correto se necessário -->
